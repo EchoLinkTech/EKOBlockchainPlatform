@@ -1,0 +1,12 @@
+SHA-256 Hash of Redacted Loan Agreement
+
+EchoLink Project – Contributor Loan Agreement
+Effective for disbursements made between 2017 and 2025
+
+Hash (SHA-256):
+b572d2758a1dd3f87abfa21c629bf59f384a2354a328dd15f031e5d0af70b9c3
+
+Note:
+This hash corresponds to a redacted version of the agreement reflecting all material terms (interest rate, repayment rights, work-for-credit clause), but excluding personal details. A full unredacted version is retained privately by the Borrower and the Project Treasury.
+
+Posted for transparency and verifiability.
